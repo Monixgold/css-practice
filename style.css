@@ -13,10 +13,27 @@ h2 {
     font-size: 25px;
 }
 
+h2, h3, p {
+    margin: 10px
+}
+
+.center {
+    text-align: center;
+}
+
 p {
     color: blue;
 }
 
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    width: 600px;
+}
 
-
-
+.flex div {
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+}
