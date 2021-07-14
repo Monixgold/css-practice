@@ -9,6 +9,11 @@ section {
     border-width: 30px;
 }
 
+div {
+    border-style: solid black;
+    border width: 200px ;
+}
+
 h2 {
     text-decoration: underline;
     font-size: 30px;
@@ -17,3 +22,6 @@ h2 {
 p {
     color: blue;
 }
+
+
+
