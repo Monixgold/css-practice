@@ -43,6 +43,10 @@ h2, h3, p {
     text-align: center;
 }
 
+.dotted {
+    border: dotted black;
+}
+
 
 .flex {
     font-family:'Times New Roman', Times, serif;
