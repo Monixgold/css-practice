@@ -59,16 +59,15 @@ h3, h2 {
     margin-left: 20px;
 }
 
-
 .flex {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     display: flex;
     justify-content: space-evenly;
     border: 2px solid white;
     width: 900px;
     height: 300px;
-    align-items:center
-    }
+    align-items: center;
+}
 
 .flex div {
     border: 2px solid black;
@@ -76,3 +75,8 @@ h3, h2 {
     height: 150px;
     text-align: center;
 }
+
+
+
+
+
